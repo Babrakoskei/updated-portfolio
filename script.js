@@ -20,7 +20,7 @@ $(document).ready(function(){
     });
     // typing text
     var typed = new Typed(".typing", {
-        strings: ["Front-end developer","UX/UI designer", "Content writer", "Barista"],
+        strings: ["Front-end developer","UX/UI designer", "UX researcher","Content writer"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
